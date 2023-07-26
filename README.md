@@ -18,6 +18,6 @@ are one of them. Searching extensively within the data domain to acquire relevan
 think will be useful. 
 Below table shows the list of data sets which we have acquired and merged.
 
-----|----|----|
-Resale Flat Prices based on approval 2000 Feb to 2012 | Consumer price index at expenditure group level 2019 as base year monthly
+* Resale Flat Prices based on approval 2000 Feb to 2012
+* Consumer price index at expenditure group level 2019 as base year monthly
 Resale flat prices based on registration date from Mar2012 to dec 2014 | Private residential property rental index base quarter 2009 Q1-100 quarterly

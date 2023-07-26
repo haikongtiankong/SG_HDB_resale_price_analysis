@@ -43,7 +43,7 @@ one csv, to facilitate subsequent feature engineering.
 In order to develop a better understanding of our dataset, we visualize the price distribution and the annual 
 price trend by certain features. Moreover, we choose to use price per square meter as our target instead of 
 the overall resale price.
-F
+![fig1](https://github.com/haikongtiankong/SG_HDB_resale_price_analysis/blob/main/img/2.png)
 We also note that the flat type and the region of the house are influential to the price as well. As can be seen 
 from figures below, executive room has a more steady and lower price than other type of rooms. It is also 
 obvious that houses in the central region of Singapore are likely to have a higher price, while the house price 
